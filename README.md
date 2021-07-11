@@ -1,6 +1,6 @@
 ### Hi there 👋, im RamokTV
 
-- 🔭 I’m currently working on RamokSelfbot !
+- 🔭 I’m currently working on Xelies !
 - ⚡ You can talk w/ me on Discord : mooscles#6843
 - 💬 Fun fact : Idk how to use github but im working on it
 
