@@ -1,6 +1,6 @@
 ### Hi there 👋, im Ramok
 
-- ⚡ You can talk w/ me on Discord : OULA#1234
+- ⚡ You can talk w/ me on Discord : suce#1234
 - 📕 Currently learning: N/A
 - 😎 Using : Javascript, Typescript, C#, C++, Electron, HTML, CSS/SCSS, EJS, MONGO, React
 
