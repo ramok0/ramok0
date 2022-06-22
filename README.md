@@ -1,6 +1,6 @@
 ### Hi there 👋, im Ramok
 
-- ⚡ You can talk w/ me on Discord : suce#1234
+- ⚡ You can talk w/ me on Discord : ramok#1234
 - 🧑‍💻 Working on : Spotify Rich Presence on Instagram
 - 😎 Using : Typescript, C#, C++, React
 
