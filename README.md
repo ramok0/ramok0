@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++           1 hr 27 mins    █████████████████████▓░░░   86.10 %
-C             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Objective-C   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Assembly      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
